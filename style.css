@@ -7,7 +7,7 @@
 
 
 .banner{
-	backgroud-image: url("/images/banner_background.jpeg");
+	backgroud-image: url("images/banner_background.jpeg");
 	background-size: cover;
 	background-position: center;
 }
