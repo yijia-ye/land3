@@ -5,13 +5,6 @@
 @import url("css/components/banner.css");
 @import url("css/components/card.css");
 
-
-.banner{
-	backgroud-image: url("images/background.jpeg");
-	background-size: cover;
-	background-position: center;
-}
-
 body{
 	font-family:  'Lora', serif;
 	font-size:  18px;
